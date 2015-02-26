@@ -1,0 +1,17 @@
+<pyramid.model>
+	<metaData>
+		<sourceFile>	F:/Dokumente/maya/projects/default/scenes/pyramid.mb	</sourceFile>
+		<computer>	ROBINPC	</computer>
+		<copyright>	None Bitches.	</copyright>
+		<created_by>	Robin	</created_by>
+		<created_on>	1420812017	</created_on>
+		<modified_by>	Robin	</modified_by>
+		<modified_on>	1420910813	</modified_on>
+	</metaData>
+	<nodelessVisual>	content/mods/pyramid	</nodelessVisual>
+	<materialNames>	</materialNames>
+	<visibilityBox>
+		<min>	-0.018301 0.000000 -0.018301	</min>
+		<max>	0.018301 0.025532 0.018301	</max>
+	</visibilityBox>
+</pyramid.model>

@@ -1,0 +1,17 @@
+<companion.xml>
+
+<!--- This Section covers the settings which always apply -->	
+	<ShowOnlyOnDeath>True</ShowOnlyOnDeath> <!-- IMPORTANT SETTING: If you set this to True the Companion will only spawn on your death, if you set it to False it will spawn at the start of the battle -->
+	<SpeedAroundAxis>4.0</SpeedAroundAxis> <!--- The Speed in which the Companion Rotates around itself (set to 0 if you don't want any Rotation)-->
+	<Smoothness>0.01</Smoothness> <!--- The Lower this Value the more the Companion will be dragged behind, aka will be slower -->
+	<Height>6.0</Height> <!--- The Height in which the Companion will float relative to the Center of the Tank (My Default is 6) -->
+	<HeightDifferences>1.5</HeightDifferences> <!--- The Companion is moving up and down in a SinusCurve, you can set the amplitude (aka the Height) here -->
+
+	<!--- This Section covers Rotation around the Tank in a Circle-->
+	<RotateAroundTank>True</RotateAroundTank><!--- Set to True/False if the companion should rotate around the tank. If you set this to off it will try to reach the center above the tank (will disable Radius and SpeedCircle) -->
+	<Radius>8.0</Radius> <!--- Radius of the Circle the Companion will do around the vehicle -->
+	<SpeedCircle>50</SpeedCircle> <!--- The Speed in which the Companion will travel around the Tank -->
+
+</companion.xml>
+
+
